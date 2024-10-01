@@ -1,6 +1,6 @@
 # WorkSync
 
-ProjXpert is a cutting-edge project management platform designed to enhance team collaboration and streamline project workflows. With ProjXpert, users can efficiently manage projects, assign tasks, and track progress—all within an intuitive and secure environment.
+WorkSync is a cutting-edge project management platform designed to enhance team collaboration and streamline project workflows. With WorkSync, users can efficiently manage projects, assign tasks, and track progress—all within an intuitive and secure environment.
 
 ## Features
 
